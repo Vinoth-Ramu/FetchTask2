@@ -1,0 +1,17 @@
+.card
+{
+    width: 600px;
+}
+
+.container {
+    margin-top: 2cm;
+}
+body
+{
+    background-image: url("fetch1img.jpg");
+}
+button
+{
+    margin-left: 50%;
+    margin-bottom: 50px;
+}
